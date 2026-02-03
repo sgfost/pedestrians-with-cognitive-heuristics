@@ -1,4 +1,4 @@
-This repo is an experiment in automated model replication/reimplementation of the model described in
+This repo is an experiment in automated replication/reimplementation of the model described in
 
 > Moussaïd, M., Helbing, D., & Theraulaz, G. (2011). How simple rules determine pedestrian behavior and crowd disasters. *PNAS*, 108(17), 6884-6888.
 
