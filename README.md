@@ -1,6 +1,6 @@
 ![Bidirectional Flow - Lane Formation](bidirectionalflow.gif)
 
-This repo is an experiment in automated replication/reimplementation of the model described in
+This repo is an experiment in automated reimplementation of the model described in
 
 > Moussaïd, M., Helbing, D., & Theraulaz, G. (2011). How simple rules determine pedestrian behavior and crowd disasters. *PNAS*, 108(17), 6884-6888.
 
@@ -22,9 +22,9 @@ The last instruction prompted the only real functional change made since the ini
 > The periodic boundary logic is "finding the shortest path on a torus" but that causes pedestrians to take the shortcut around the boundary instead of walking through the crowd.
 > The fix: pedestrians should always walk in their intended direction. Periodic wrapping should only apply to position wrapping and collision detection with nearby pedestrians, NOT for choosing which way to walk.
 
-# GENERATED README: Pedestrian Simulation: Moussaïd et al. 2011 Replication
+# GENERATED README: Pedestrian Simulation: Moussaïd et al. 2011 Reimplementation
 
-A browser-based replication of the cognitive heuristics pedestrian model from:
+A browser-based reimplementation of the cognitive heuristics pedestrian model from:
 
 > Moussaïd, M., Helbing, D., & Theraulaz, G. (2011). How simple rules determine pedestrian behavior and crowd disasters. *PNAS*, 108(17), 6884-6888.
 
